@@ -1,0 +1,2 @@
+# Codewars
+Programming tasks (Kata)
